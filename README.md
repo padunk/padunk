@@ -1,6 +1,6 @@
 # Hello, I am Abraham 🐲
 
-![](<https://raw.githubusercontent.com/saviomartin/saviomartin/main/github-banner%20(1).png>)
+![](./hero.jpg)
 
 Web and mobile we developer specializing in cloud and have keen interest in blockchain.
 
