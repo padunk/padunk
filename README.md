@@ -44,7 +44,7 @@ Web and mobile we developer specializing in cloud and have keen interest in bloc
 
 ## Proud Projects 💻
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=padunk&repo=groq-of-thrones&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=000)](https://github.com/saviomartin/gradientking)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=padunk&repo=fade-to-black&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=000)](https://github.com/saviomartin/loficlub)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=padunk&repo=groq-of-thrones&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=000)](https://github.com/padunk/groq-of-thrones)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=padunk&repo=fade-to-black&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=000)](https://github.com/padunk/fade-to-black)
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=padunk'></p>
