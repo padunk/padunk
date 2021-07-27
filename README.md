@@ -32,10 +32,6 @@ Web and mobile we developer specializing in cloud and have keen interest in bloc
 ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-<!-- ## My Recent Blog posts ✍️ -->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## For Nerds 🤓
 
@@ -43,7 +39,7 @@ Web and mobile we developer specializing in cloud and have keen interest in bloc
 
 ## Proud Projects 💻
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=padunk&repo=groq-of-thrones&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=000)](https://github.com/padunk/groq-of-thrones)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=padunk&repo=fade-to-black&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=000)](https://github.com/padunk/fade-to-black)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=padunk&repo=groq-of-thrones&bg_color=45,833ab4,fcb045&title_color=fff&text_color=000)](https://github.com/padunk/groq-of-thrones)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=padunk&repo=fade-to-black&bg_color=45,833ab4,fcb045&title_color=fff&text_color=000)](https://github.com/padunk/fade-to-black)
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=padunk'></p>
