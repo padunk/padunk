@@ -4,7 +4,7 @@
 
 Web and mobile we developer specializing in cloud and have keen interest in blockchain.
 
--   🕸️ I’m currently working on Hyperledger project
+-   🕸️ I’m currently working on Decentralized App
 -   🚀 I’m currently learning Solidity
 -   📫 [abraham.agel@outlook.com](mailto:abraham.agel@outlook.com)
 -   📷 is my hobby
