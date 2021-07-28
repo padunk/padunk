@@ -4,7 +4,7 @@
 
 Web and mobile we developer specializing in cloud and have keen interest in blockchain.
 
--   🕸️ I’m currently working on Hyperledger project
+-   🕸️ I’m currently working on Decentralized App
 -   🚀 I’m currently learning Solidity
 -   📫 [abraham.agel@outlook.com](mailto:abraham.agel@outlook.com)
 -   📷 is my hobby
@@ -32,23 +32,13 @@ Web and mobile we developer specializing in cloud and have keen interest in bloc
 ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-<!-- ## My Recent Blog posts ✍️ -->
-
-<!-- BLOG-POST-LIST:START -->
-- [Introducing Code House - A whole new world of 300+ Developer Cheatsheets 👨‍💻](https://savio.xyz/introducing-code-house-a-whole-new-world-of-300-developer-cheatsheets)
-- [Create a Search Filter in React from Scratch 🔎](https://savio.xyz/create-a-search-filter-in-react-from-scratch)
-- [Setup Email Authentication with Reset option in React App 🚀](https://savio.xyz/setup-email-authentication-with-reset-option-in-react-app)
-- [Setup Phone Authentication with OTP in your React App 🚀](https://savio.xyz/setup-phone-authentication-with-otp-in-your-react-app)
-- [Create a Dark Mode toggler with Tailwind ⚡️](https://savio.xyz/create-a-dark-mode-toggler-with-tailwind)
-<!-- BLOG-POST-LIST:END -->
-
 ## For Nerds 🤓
 
-![](https://github-readme-stats.vercel.app/api?username=padunk&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=000)
+![](https://github-readme-stats.vercel.app/api?username=padunk&show_icons=true&bg_color=45,6e21da,fa0da9&title_color=fff&text_color=000)
 
 ## Proud Projects 💻
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=padunk&repo=groq-of-thrones&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=000)](https://github.com/padunk/groq-of-thrones)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=padunk&repo=fade-to-black&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=000)](https://github.com/padunk/fade-to-black)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=padunk&repo=groq-of-thrones&bg_color=45,6e21da,fa0da9&title_color=fff&text_color=000)](https://github.com/padunk/groq-of-thrones)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=padunk&repo=fade-to-black&bg_color=45,6e21da,fa0da9&title_color=fff&text_color=000)](https://github.com/padunk/fade-to-black)
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=padunk'></p>
