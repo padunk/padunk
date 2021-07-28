@@ -32,6 +32,11 @@ Web and mobile we developer specializing in cloud and have keen interest in bloc
 ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
+## Blogs ✍️
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## For Nerds 🤓
 
 ![](https://github-readme-stats.vercel.app/api?username=padunk&show_icons=true&bg_color=45,ece325,fa0da9&title_color=fff&text_color=000)
