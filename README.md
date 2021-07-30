@@ -35,6 +35,10 @@ Web and mobile we developer specializing in cloud and have keen interest in bloc
 ## Blogs ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Solidity for JavaScript Developer](https://anakagung.com/blog/solidity-for-javascript-developer)
+- [Lambda Infinite Loop: How To Avoid It.](https://anakagung.com/blog/lambda-infinite-loop-how-to-avoid-it)
+- [How To Create React and Tailwind project with Vite](https://anakagung.com/blog/how-to-create-react-and-tailwind-project-with-vite)
+- [How to Create Coding Blog with Sapper and Sanity from scratch](https://anakagung.com/blog/how-to-create-coding-blog-with-sapper-and-sanity-from-scratch)
 <!-- BLOG-POST-LIST:END -->
 
 ## For Nerds 🤓
