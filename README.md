@@ -2,10 +2,10 @@
 
 ![](./hero.jpg)
 
-Web and mobile we developer specializing in cloud and have keen interest in blockchain.
+Full-Stack and Mobile Developer | Crafting Digital Excellence
 
--   🕸️ I’m currently working on Decentralized App
--   🚀 I’m currently learning Solidity
+-   🕸️ I’m currently working at a real estate company
+-   🚀 I’m currently learning HTMX
 -   📫 [abraham.agel@outlook.com](mailto:abraham.agel@outlook.com)
 -   📷 is my hobby
 
@@ -42,6 +42,7 @@ Web and mobile we developer specializing in cloud and have keen interest in bloc
 <!-- BLOG-POST-LIST:END -->
 
 ## For Nerds 🤓
+Note: this GitHub won't reflect my work since I use my company account to get busy.
 
 ![](https://github-readme-stats.vercel.app/api?username=padunk&show_icons=true&bg_color=45,ece325,fa0da9&title_color=fff&text_color=000)
 
