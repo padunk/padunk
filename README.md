@@ -1,4 +1,4 @@
-# Hello, I am Abraham 🐲
+# Hello, I am Abraham
 
 ![](./hero.jpg)
 
@@ -6,13 +6,13 @@ Full-Stack and Mobile Developer | Crafting Digital Excellence
 
 -   🕸️ I’m currently working at a real estate company
 -   🚀 I’m currently learning HTMX
--   📫 [abraham.agel@outlook.com](mailto:abraham.agel@outlook.com)
+-   📫 [abraham.anak.agung@gmail.com](mailto:abraham.anak.agung@gmail.com)
 -   📷 is my hobby
 
 ## Me around the web 🌍
 
 -   [LinkedIn](https://www.linkedin.com/in/abrahamanakagung)
--   [Twitter](https://twitter.com/anakagungcorp)
+-   [X](https://x.com/anakagungcorp)
 -   [Codepen](https://codepen.io/padunk/)
 -   [Dev.to](https://dev.to/padunk)
 
