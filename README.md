@@ -46,9 +46,4 @@ Note: this GitHub won't reflect my work since I use my company account to get bu
 
 ![](https://github-readme-stats.vercel.app/api?username=padunk&show_icons=true&bg_color=45,ece325,fa0da9&title_color=fff&text_color=000)
 
-## Proud Projects 💻
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=padunk&repo=groq-of-thrones&bg_color=45,ece325,fa0da9&title_color=fff&text_color=000)](https://github.com/padunk/groq-of-thrones)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=padunk&repo=fade-to-black&bg_color=45,ece325,fa0da9&title_color=fff&text_color=000)](https://github.com/padunk/fade-to-black)
-
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=padunk'></p>
