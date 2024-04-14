@@ -2,35 +2,32 @@
 
 ![](./hero.jpg)
 
-Full-Stack and Mobile Developer | Crafting Digital Excellence
+Web and Mobile Developer | Crafting Digital Excellence
 
 -   🕸️ I’m currently working at a real estate company
--   🚀 I’m currently learning HTMX
+-   🚀 I’m currently learning Rust for web development
 -   📫 [abraham.anak.agung@gmail.com](mailto:abraham.anak.agung@gmail.com)
 -   📷 is my hobby
 
 ## Me around the web 🌍
 
+-   [My Space](https://anakagung.com)
 -   [LinkedIn](https://www.linkedin.com/in/abrahamanakagung)
--   [X](https://x.com/anakagungcorp)
+-   [Twitter](https://x.com/anakagungcorp)
 -   [Codepen](https://codepen.io/padunk/)
 -   [Dev.to](https://dev.to/padunk)
 
 ## My tools 🧰
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![](https://img.shields.io/badge/Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=black)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=reactnative&logoColor=61DAFB)
 
 ## Blogs ✍️
 
