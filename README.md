@@ -5,14 +5,14 @@
 Web and Mobile Developer | Crafting Digital Excellence
 
 -   🕸️ I’m currently working at a real estate company
--   🚀 I’m currently learning Rust for web development
+-   🚀 I’m currently learning React Native Tools
 -   📫 [abraham.anak.agung@gmail.com](mailto:abraham.anak.agung@gmail.com)
 -   📷 is my hobby
 
 ## Me around the web 🌍
 
 -   [My Space](https://anakagung.com)
--   [LinkedIn](https://www.linkedin.com/in/abrahamanakagung)
+-   [LinkedIn](https://www.linkedin.com/in/abraham-agung)
 -   [Twitter](https://x.com/anakagungcorp)
 -   [Codepen](https://codepen.io/padunk/)
 -   [Dev.to](https://dev.to/padunk)
