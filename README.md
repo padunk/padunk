@@ -5,7 +5,7 @@
 Web and Mobile Developer | Crafting Digital Excellence
 
 - 🕸️ I’m currently working at a real estate company
-- 🚀 I’m currently learning React Native Tools
+- 🚀 I’m currently learning Native Code SwiftUI & Jetpack Compose
 - 📫 [abraham.anak.agung@gmail.com](mailto:abraham.anak.agung@gmail.com)
 - 📷 is my hobby
 
