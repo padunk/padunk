@@ -1,9 +1,9 @@
-# Hello, I am Abraham
+# Hello, I am Agung
 
 ![](./hero.jpg)
 
 Web and Mobile Developer | Crafting Digital Excellence
-
+<!--
 - 🕸️ I’m currently working at a real estate company
 - 🚀 I’m currently learning Native Code SwiftUI & Jetpack Compose
 - 📫 [abraham.anak.agung@gmail.com](mailto:abraham.anak.agung@gmail.com)
@@ -28,15 +28,18 @@ Web and Mobile Developer | Crafting Digital Excellence
 ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+-->
+
 ## Blogs ✍️
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 
 - [Solidity for JavaScript Developer](https://anakagung.com/blog/solidity-for-javascript-developer)
 - [Lambda Infinite Loop: How To Avoid It.](https://anakagung.com/blog/lambda-infinite-loop-how-to-avoid-it)
 - [How To Create React and Tailwind project with Vite](https://anakagung.com/blog/how-to-create-react-and-tailwind-project-with-vite)
 - [How to Create Coding Blog with Sapper and Sanity from scratch](https://anakagung.com/blog/how-to-create-coding-blog-with-sapper-and-sanity-from-scratch)
-<!-- BLOG-POST-LIST:END -->
+
+BLOG-POST-LIST:END -->
 
 ## For Nerds 🤓
 
