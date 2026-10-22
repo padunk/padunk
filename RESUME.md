@@ -8,7 +8,7 @@ Results-driven Full-Stack Engineer with 6+ years of experience building scalable
 
 ## WORK EXPERIENCE
 
-### Senior Engineer / Mobile Developer Reapit ANZ - Sydney, AU (Remote) 2024 – current
+### Senior Engineer / Mobile Developer, Reapit ANZ - Sydney, AU (Remote) 2024 – current
 
 - Owned development and maintenance of a production React Native application, delivering consistent performance and reliability improvements.
 - Cut annual operating costs by $20,000 by auditing and streamlining analytics and event tracking
@@ -26,7 +26,7 @@ estimation, and roadmap discussions.
 - Created custom AI agents and skills to work end-to-end from planning to implementation, code
 review, patching, creating commits, and PR.
 
-#### Technology: React Native, SwiUI, Jetpack Compose, Redux, Mobx, Realm, XCode, Android Studio, Jest, MixPanel,
+#### Technology: React Native, SwiftUI, Jetpack Compose, Redux, Mobx, Realm, XCode, Android Studio, Jest, MixPanel,
 Sentry, Claude, OpenCode, Github Copilot.
 
 ### Frontend Developer, Savills - London, UK (Remote) 2021 – 2024
