@@ -39,7 +39,7 @@ Sentry, Claude, OpenCode, Github Copilot.
 
 #### Technology: AWS, NodeJS, ExpressJS, React, Vite, TypeScript, TanStack Query, Jest, Cypress, StoryBook, Jira, New Relic.
 
-### UI/UX Frontend Developer, Hakovo - Singapore (Remote) 2018 – 2020
+### UI/UX Frontend Developer, Hakovo - Singapore (Remote) 2019 – 2021
 
 - Led design and development of a customs clearance platform across multi-regional ASEAN markets, achieving a 30% reduction in processing time.
 - Created new HS (Harmonized System) Code recommendation apps utilizing AI technology from scratch, enhancing the accuracy and efficiency of customs tariff classification by 60%.
