@@ -8,23 +8,28 @@ Results-driven Full-Stack Engineer with 6+ years of experience building scalable
 
 ## WORK EXPERIENCE
 
-### React Native Developer Reapit ANZ - Sydney, AU (Remote) 2022 – current
+### Senior Engineer / Mobile Developer Reapit ANZ - Sydney, AU (Remote) 2024 – current
 
 - Owned development and maintenance of a production React Native application, delivering consistent performance and reliability improvements.
-- Reduced cost by USD 20k/year by focusing on necessary UBT events.
-- Resolved a critical yearlong production bug, driving a 20% increase in feature adoption.
-- Maintained and extended custom native modules in Java (Android) and Objective-C (iOS), ensuring cross-platform stability across all releases.
-- Spearheaded key modernization initiatives, including:
-  - Replaced Flow with TypeScript.
-  - Re-write React class components to React Hooks.
-  - Implemented caching mechanism using RTKQuery for better UI/UX.
-  - Led ongoing migration from bare React Native to Expo, reducing build complexity and improving developer experience (AI assisted - WIP).
-- Owned end-to-end deployment pipeline for AppStore and PlayStore, ensuring smooth and reliable releases.
-- Drove biweekly sprint delivery in collaboration with product, QA, and backend teams, consistently achieving sprint goals tracked via Jira.
+- Cut annual operating costs by $20,000 by auditing and streamlining analytics and event tracking
+instrumentation.
+- Led several technical initiatives end-to-end:
+  - Introduced RTK Query caching, measurably improving UI responsiveness.
+  - Migrated old codebase from bare React Native to Expo.
+  - Merged two applications and re-write it in native using Jetpack Compose and SwiftUI.
+- Maintained and debugged native modules in Java (Android) and Objective-C (iOS) to ensure reliable
+cross-platform behavior.
+- Configured and managed App Store and Play Store releases via EAS and BitRise.
+- Covered my team mates while they’re working on heavy tasks.
+- Worked weekly with Product, QA, DevOps, and Backend, and contributed to technical planning,
+estimation, and roadmap discussions.
+- Created custom AI agents and skills to work end-to-end from planning to implementation, code
+review, patching, creating commits, and PR.
 
-#### Technology: React Native, Redux, Mobx, Realm, XCode, Android Studio, Jest, MixPanel, Sentry.
+#### Technology: React Native, SwiUI, Jetpack Compose, Redux, Mobx, Realm, XCode, Android Studio, Jest, MixPanel,
+Sentry, Claude, OpenCode, Github Copilot.
 
-### React Developer Savills - London, UK (Remote) 2020 – 2022
+### Frontend Developer, Savills - London, UK (Remote) 2021 – 2024
 
 - Led full-cycle application development from technical requirements and architecture design through implementation, testing, and production deployment.
 - Redesigned a CRM dashboard for email communications and tracking, driving a 20% increase in data engagement.
@@ -34,7 +39,7 @@ Results-driven Full-Stack Engineer with 6+ years of experience building scalable
 
 #### Technology: AWS, NodeJS, ExpressJS, React, Vite, TypeScript, TanStack Query, Jest, Cypress, StoryBook, Jira, New Relic.
 
-### UI/UX Frontend Developer Hakovo - Singapore (Remote) 2018 – 2020
+### UI/UX Frontend Developer, Hakovo - Singapore (Remote) 2018 – 2020
 
 - Led design and development of a customs clearance platform across multi-regional ASEAN markets, achieving a 30% reduction in processing time.
 - Created new HS (Harmonized System) Code recommendation apps utilizing AI technology from scratch, enhancing the accuracy and efficiency of customs tariff classification by 60%.
@@ -45,11 +50,11 @@ Results-driven Full-Stack Engineer with 6+ years of experience building scalable
 ## SKILLS
 
 - Frontend: TypeScript, React, Redux, ThreeJS, TailwindCSS, Material UI, ANTD Design.
-- Mobile: React Native, Expo, Swift.
+- Mobile: React Native, Expo, EAS, SwiftUI, Jetpack Compose (learning).
 - Testing: Jest, React Testing Library, Cypress.
 - Backend: Go, NodeJS, AWS, Rest API.
 - Monitoring: Sentry, MixPanel, New Relic.
-- AI Tools: GitHub Copilot, OpenCode CLI.
+- AI Tools: Claude, Copilot.
 - Other: Vite, Jira, Confluence, Git, Docker, Scrum Master, [Professional English](https://cert.efset.org/F6xjfg).
 
 ## EDUCATION & CERTIFICATIONS
@@ -57,6 +62,8 @@ Results-driven Full-Stack Engineer with 6+ years of experience building scalable
 Master of Management - Atma Jaya University, Jakarta, Indonesia 2009
 
 Digitalent Scholarship (AI Focus) Microsoft and Ministry of Information 2019
+
+Claude Courses — Anthropic Academy, 2026
 
 ## PROJECTS AND OPEN SOURCE
 
